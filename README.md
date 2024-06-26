@@ -2,14 +2,12 @@
 
 Meu nome Daneil Fonseca lima 
 
--estou estudando na alura 
+-estou estudando na [ALURA](https://www.alura.com.br)
 -estou me desenvolvendo na linguagem javascript
 -utilizo esse espaço pra minha organização e compartilhamento dos meus projetos desenvolvido
 
 ### você entra em contato comigo
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+-00001103727771sp@al.educacao.sp.gov.br
+
+@reflowover
